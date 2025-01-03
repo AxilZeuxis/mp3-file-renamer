@@ -46,7 +46,7 @@ This project automates the process of renaming MP3 files based on their content.
 ## Installation:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/mp3-file-renamer.git
+   git clone https://github.com/AxilZeuxis/mp3-file-renamer.git
 
 
 Navigate to the project directory:
