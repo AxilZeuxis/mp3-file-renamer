@@ -17,11 +17,25 @@ This project automates the process of renaming MP3 files based on their content.
    ```bash
    git clone https://github.com/AxilZeuxis/mp3-file-renamer.git
 
-# Navigate to the project directory:
-cd mp3-file-renamer
+Navigate to the project folder:
 
-# Install the required dependencies:
-pip install -r requirements.txt
+bash
+Copy code
+cd rename-mp3-files
+Create a virtual environment:
+
+bash
+Copy code
+python3 -m venv venv
+Activate the virtual environment:
+
+On macOS/Linux:
+bash
+Copy code
+source venv/bin/activate
+On Windows:
+bash
+Copy code
 
 
 
